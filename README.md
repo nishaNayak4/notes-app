@@ -82,3 +82,5 @@ The application uses Browser Local Storage to store notes. This allows saved not
 
 This project was built as a React learning and portfolio project to practice component-based development, state management, CSS styling, and browser Local Storage.
 
+## Live Demo
+[Veiw Live Notes App](https://notes-app-gv6i.onrender.com)
